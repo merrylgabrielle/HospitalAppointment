@@ -1,0 +1,4 @@
+Django admin
+
+Username: Ignacio
+Password: admin
